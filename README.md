@@ -1,4 +1,3 @@
-````markdown
 # 🖥️ System Monitor Tool (C++ & ncurses)
 
 A **Linux-based System Monitor Tool** built in **C++** that displays real-time information about running processes, CPU usage, and memory utilization — similar to the `top` command.
